@@ -1,0 +1,5 @@
+com.sm.sdk.demo.test.app-androidTest-0 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\generated\res\resValues\androidTest\debug
+com.sm.sdk.demo.test.app-androidTest-1 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\generated\res\rs\androidTest\debug
+com.sm.sdk.demo.test.app-mergeDebugAndroidTestResources-2 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.sm.sdk.demo.test.app-mergeDebugAndroidTestResources-3 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.sm.sdk.demo.test.app-merged_res-4 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\intermediates\merged_res\debugAndroidTest

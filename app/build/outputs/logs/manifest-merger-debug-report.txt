@@ -1,0 +1,896 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+MERGED from [PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:2:1-13:12
+MERGED from [sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:2:1-18:12
+MERGED from [com.sunmi:printerlibrary:1.0.13] C:\Users\Mustafa\.gradle\caches\transforms-3\afb85bb5d544808a4ddd226d3138ddcd\transformed\jetified-printerlibrary-1.0.13\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\1072879069efd070fb6992aa0ec3c2d9\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mustafa\.gradle\caches\transforms-3\955413b85531504294598a8aedf3347f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Mustafa\.gradle\caches\transforms-3\5d71c09e320f59ac02ee86e96c089f7e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mustafa\.gradle\caches\transforms-3\44fc53ad3ef1477fcc7b5dbdbf1cb4c0\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mustafa\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Mustafa\.gradle\caches\transforms-3\b37d3cc29ea0c6201c77d22fe23d583e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\2f4e5cd3c19a22ad658424fbd55db187\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\7bc7a5b48c08c285c7816e5896abfab2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\c49cd9f9e70a62c0cfb6a9c057db283b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\ce8e9fef21b12750b78ea8e6de235acd\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\a7df65a8c9e3ccc272ac26dbb4e6f86a\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\46167f1523bd689108129b80f4422441\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\4432a2afdd19fc85814143f134bfa94c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\34be6e117e2e06ff01a6121271053230\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\56231006098977eb2b0b774fbfdbf755\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\11719f426e3912cf36f493acb6a06bf9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\6eaf261807bfdfb11a3a18692cc26456\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\66eb2c428070a7989cc3e53427124072\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\94c1e08774be1a91ac7aa4bf2cb72cb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Mustafa\.gradle\caches\transforms-3\9c93c0208ca51e60d003bcd86a7f4e2d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+	package
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:1-209:12
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.sunmi.perm.LED
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:6:5-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:6:22-55
+uses-permission#com.sunmi.perm.MSR
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:7:5-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:7:22-55
+uses-permission#com.sunmi.perm.ICC
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:8:5-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:8:22-55
+uses-permission#com.sunmi.perm.PINPAD
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:9:5-61
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:9:22-58
+uses-permission#com.sunmi.perm.SECURITY
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:10:5-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:10:22-60
+uses-permission#com.sunmi.perm.CONTACTLESS_CARD
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.SET_TIME
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:18:5-20:53
+	tools:ignore
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:19:9-61
+application
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:22:5-207:19
+MERGED from [sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:13:5-16:19
+MERGED from [sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:13:5-16:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\1072879069efd070fb6992aa0ec3c2d9\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\1072879069efd070fb6992aa0ec3c2d9\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Mustafa\.gradle\caches\transforms-3\5d71c09e320f59ac02ee86e96c089f7e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Mustafa\.gradle\caches\transforms-3\5d71c09e320f59ac02ee86e96c089f7e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\11719f426e3912cf36f493acb6a06bf9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\11719f426e3912cf36f493acb6a06bf9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:30:9-49
+	android:roundIcon
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:27:9-50
+	android:icon
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:25:9-45
+	android:allowBackup
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:23:9-38
+activity#com.sm.sdk.demo.MainActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:exported
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.sm.sdk.demo.basic.LedActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:40:9-55
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:40:19-52
+activity#com.sm.sdk.demo.basic.BasicActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:41:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:41:19-54
+activity#com.sm.sdk.demo.basic.BuzzerActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:42:9-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:42:19-55
+activity#com.sm.sdk.demo.basic.GetSysParamActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:43:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:43:19-60
+activity#com.sm.sdk.demo.basic.SetSysParamActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:44:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:44:19-60
+activity#com.sm.sdk.demo.basic.ScreenModelActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:45:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:45:19-60
+activity#com.sm.sdk.demo.basic.DynamicPermissionAndWifiProxyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:46:9-81
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:46:19-78
+activity#com.sm.sdk.demo.basic.CACertManageActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:47:9-64
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:47:19-61
+activity#com.sm.sdk.demo.basic.CPUInfoActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:48:9-59
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:48:19-56
+activity#com.sm.sdk.demo.basic.ScheduleRebootActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:49:9-66
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:49:19-63
+activity#com.sm.sdk.demo.basic.CustomizeFunctionKeyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:50:9-72
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:50:19-69
+activity#com.sm.sdk.demo.basic.LowMemoryKillerActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:51:9-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:51:19-64
+activity#com.sm.sdk.demo.basic.PinAntiExhaustiveMode
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:52:9-65
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:52:19-62
+activity#com.sm.sdk.demo.basic.EMVCallbackTimeActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:53:9-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:53:19-64
+activity#com.sm.sdk.demo.basic.SysSetWakeupActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:54:9-64
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:54:19-61
+activity#com.sm.sdk.demo.basic.KBBeepModeActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:55:9-62
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:55:19-59
+activity#com.sm.sdk.demo.basic.TransmissionTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:56:9-68
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:56:19-65
+activity#com.sm.sdk.demo.basic.SharedLibActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:57:9-61
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:57:19-58
+activity#com.sm.sdk.demo.basic.LitesoActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:58:9-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:58:19-55
+activity#com.sm.sdk.demo.basic.NetworkManageActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:59:9-65
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:59:19-62
+activity#com.sm.sdk.demo.basic.PhoneManageActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:60:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:60:19-60
+activity#com.sm.sdk.demo.basic.DeviceManageActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:61:9-64
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:61:19-61
+activity#com.sm.sdk.demo.basic.PedActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:62:9-55
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:62:19-52
+activity#com.sm.sdk.demo.basic.RTCBatterVolActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:63:9-64
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:63:19-61
+activity#com.sm.sdk.demo.basic.GetTamperLogActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:64:9-64
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:64:19-61
+activity#com.sm.sdk.demo.biometric.BiometricActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:66:9-65
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:66:19-62
+activity#com.sm.sdk.demo.card.CardActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:68:9-55
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:68:19-52
+activity#com.sm.sdk.demo.card.MagActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:69:9-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:69:19-51
+activity#com.sm.sdk.demo.card.MagPresetTrackActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:70:9-65
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:70:19-62
+activity#com.sm.sdk.demo.card.MagEncActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:71:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:71:19-54
+activity#com.sm.sdk.demo.card.MagTrack2EncActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:72:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:72:19-60
+activity#com.sm.sdk.demo.card.ICActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:73:9-53
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:73:19-50
+activity#com.sm.sdk.demo.card.NFCActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:74:9-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:74:19-51
+activity#com.sm.sdk.demo.card.CompositeActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:75:9-60
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:75:19-57
+activity#com.sm.sdk.demo.card.M1Activity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:76:9-53
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:76:19-50
+activity#com.sm.sdk.demo.card.SAMActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:77:9-80:57
+	android:screenOrientation
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:79:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:80:13-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:78:13-45
+activity#com.sm.sdk.demo.card.FelicaActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:81:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:81:19-54
+activity#com.sm.sdk.demo.card.MifareUltralightCActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:82:9-68
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:82:19-65
+activity#com.sm.sdk.demo.card.MifareUtralightEv1Activity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:83:9-69
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:83:19-66
+activity#com.sm.sdk.demo.card.MifareDesfireEv2Activity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:84:9-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:84:19-64
+activity#com.sm.sdk.demo.card.NormalApduActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:85:9-87:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:87:13-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:86:13-52
+activity#com.sm.sdk.demo.card.TransmitApduActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:88:9-90:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:90:13-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:89:13-54
+activity#com.sm.sdk.demo.card.ExtendedApduActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:91:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:91:19-60
+activity#com.sm.sdk.demo.card.PassApduActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:92:9-94:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:94:13-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:93:13-50
+activity#com.sm.sdk.demo.card.MifarePlusActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:95:9-61
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:95:19-58
+activity#com.sm.sdk.demo.card.MifarePlusTransmitApduActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:96:9-73
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:96:19-70
+activity#com.sm.sdk.demo.card.MifareAuthedByPSAMActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:97:9-69
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:97:19-66
+activity#com.sm.sdk.demo.card.SLE4442_4428Actviity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:98:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:98:19-60
+activity#com.sm.sdk.demo.card.AT24CActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:99:9-56
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:99:19-53
+activity#com.sm.sdk.demo.card.AT88SCActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:100:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:100:19-54
+activity#com.sm.sdk.demo.card.CTX512Activity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:101:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:101:19-54
+activity#com.sm.sdk.demo.card.SRIActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:102:9-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:102:19-51
+activity#com.sm.sdk.demo.card.CtrCodeAndMultiApduActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:103:9-70
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:103:19-67
+activity#com.sm.sdk.demo.card.GetCardExistStatusActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:104:9-69
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:104:19-66
+activity#com.sm.sdk.demo.card.HCETestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:105:9-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:105:19-55
+activity#com.sm.sdk.demo.card.PingActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:106:9-55
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:106:19-52
+activity#com.sm.sdk.demo.card.InnovatronActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:107:9-61
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:107:19-58
+activity#com.sm.sdk.demo.security.SecurityActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:109:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:109:19-60
+activity#com.sm.sdk.demo.security.SaveKeyPlainTextActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:110:9-71
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:110:19-68
+activity#com.sm.sdk.demo.security.SaveKeyCipherTextActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:111:9-72
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:111:19-69
+activity#com.sm.sdk.demo.security.InjectPlainTextKeyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:112:9-73
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:112:19-70
+activity#com.sm.sdk.demo.security.InjectCiphertextKeyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:113:9-74
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:113:19-71
+activity#com.sm.sdk.demo.security.CalcMacActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:114:9-62
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:114:19-59
+activity#com.sm.sdk.demo.security.DataEncryptActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:115:9-66
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:115:19-63
+activity#com.sm.sdk.demo.security.DataDecryptActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:116:9-66
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:116:19-63
+activity#com.sm.sdk.demo.security.GetEncryptBySerialNumberActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:117:9-79
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:117:19-76
+activity#com.sm.sdk.demo.security.DukptSaveKeyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:118:9-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:118:19-64
+activity#com.sm.sdk.demo.security.DukptCalcMacActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:119:9-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:119:19-64
+activity#com.sm.sdk.demo.security.DukptDataEncryptActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:120:9-71
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:120:19-68
+activity#com.sm.sdk.demo.security.DukptDataDecryptActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:121:9-71
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:121:19-68
+activity#com.sm.sdk.demo.security.DukptKSNOperateActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:122:9-70
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:122:19-67
+activity#com.sm.sdk.demo.security.RSATestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:123:9-62
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:123:19-59
+activity#com.sm.sdk.demo.security.RSARecoverActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:124:9-65
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:124:19-62
+activity#com.sm.sdk.demo.security.SaveTR31KeyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:125:9-66
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:125:19-63
+activity#com.sm.sdk.demo.security.DeleteKeyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:126:9-64
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:126:19-61
+activity#com.sm.sdk.demo.security.DukptAesSaveKeyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:127:9-70
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:127:19-67
+activity#com.sm.sdk.demo.security.SM2TestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:128:9-62
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:128:19-59
+activity#com.sm.sdk.demo.security.CalcHashActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:129:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:129:19-60
+activity#com.sm.sdk.demo.security.HsmAndDeviceCertificateTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:130:9-82
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:130:19-79
+activity#com.sm.sdk.demo.security.DeviceCertPvkTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:131:9-72
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:131:19-69
+activity#com.sm.sdk.demo.security.InjectDeviceCertPvkActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:132:9-74
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:132:19-71
+activity#com.sm.sdk.demo.security.GetDeviceCertificateActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:133:9-75
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:133:19-72
+activity#com.sm.sdk.demo.security.DevicePvkRecoverActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:134:9-71
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:134:19-68
+activity#com.sm.sdk.demo.security.DeviceCertManagerActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:135:9-72
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:135:19-69
+activity#com.sm.sdk.demo.security.HsmKeyShareTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:136:9-70
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:136:19-67
+activity#com.sm.sdk.demo.security.HsmRsaTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:137:9-65
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:137:19-62
+activity#com.sm.sdk.demo.security.GetKeyCheckValueActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:138:9-71
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:138:19-68
+activity#com.sm.sdk.demo.security.APACSMacTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:139:9-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:139:19-64
+activity#com.sm.sdk.demo.security.HsmSaveKeyUnderKEKActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:140:9-73
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:140:19-70
+activity#com.sm.sdk.demo.security.HsmExportKeyUnderKEKActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:141:9-75
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:141:19-72
+activity#com.sm.sdk.demo.security.SaveKeyCipherTextUnderRsaActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:142:9-80
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:142:19-77
+activity#com.sm.sdk.demo.security.InjectCiphertextKeyUnderRsaActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:143:9-82
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:143:19-79
+activity#com.sm.sdk.demo.security.InjectSymKeyActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:144:9-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:144:19-64
+activity#com.sm.sdk.demo.security.GetSetDeviceCertificateActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:145:9-78
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:145:19-75
+activity#com.sm.sdk.demo.security.TR34TestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:146:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:146:19-60
+activity#com.sm.sdk.demo.pin.PinActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:148:9-53
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:148:19-50
+activity#com.sm.sdk.demo.pin.PinPadActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:149:9-56
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:149:19-53
+activity#com.sm.sdk.demo.pin.CustomizedPinPadActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:150:9-66
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:150:19-63
+activity#com.sm.sdk.demo.pin.CustomizedPinPadActivityForBanjul
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:151:9-75
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:151:19-72
+activity#com.sm.sdk.demo.pin.VisualImpairmentPinActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:152:9-69
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:152:19-66
+activity#com.sm.sdk.demo.pin.CustomizedVisualImpairmentPinActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:153:9-79
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:153:19-76
+activity#com.sm.sdk.demo.pin.StartInputPinActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:154:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:154:19-60
+activity#com.sm.sdk.demo.emv.EMVActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:156:9-53
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:156:19-50
+activity#com.sm.sdk.demo.emv.ICProcessActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:157:9-59
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:157:19-56
+activity#com.sm.sdk.demo.emv.RuPayCardActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:158:9-59
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:158:19-56
+activity#com.sm.sdk.demo.emv.MagProcessActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:159:9-60
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:159:19-57
+activity#com.sm.sdk.demo.emv.TossEmvActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:160:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:160:19-54
+activity#com.sm.sdk.demo.emv.EmvOtherActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:161:9-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:161:19-55
+activity#com.sm.sdk.demo.emv.EMVTestSaveAidCapkActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:162:9-68
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:162:19-65
+activity#com.sm.sdk.demo.emv.VisualImpairmentProcessActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:163:9-73
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:163:19-70
+activity#com.sm.sdk.demo.tax.TaxTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:165:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:165:19-54
+activity#com.sm.sdk.demo.print.PrintActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:167:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:167:19-54
+activity#com.sm.sdk.demo.print.PrintTextActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:168:9-61
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:168:19-58
+activity#com.sm.sdk.demo.print.PrintConfigActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:169:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:169:19-60
+activity#com.sm.sdk.demo.print.PrintBitmapActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:170:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:170:19-60
+activity#com.sm.sdk.demo.etc.ETCActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:172:9-53
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:172:19-50
+activity#com.sm.sdk.demo.etc.I2CDataExchangeActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:173:9-175:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:175:13-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:174:13-56
+activity#com.sm.sdk.demo.etc.SearchETCDeviceActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:176:9-178:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:178:13-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:177:13-56
+activity#com.sm.sdk.demo.etc.ETCStressTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:179:9-181:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:181:13-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:180:13-54
+activity#com.sm.sdk.demo.etc.ETCTradeActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:182:9-184:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:184:13-54
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:183:13-49
+activity#com.sm.sdk.demo.m112.M112Activity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:186:9-55
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:186:19-52
+activity#com.sm.sdk.demo.other.OtherActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:188:9-57
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:188:19-54
+activity#com.sm.sdk.demo.other.VersionActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:189:9-59
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:189:19-56
+activity#com.sm.sdk.demo.other.LanguageActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:190:9-60
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:190:19-57
+activity#com.sm.sdk.demo.other.TamperLogActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:191:9-61
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:191:19-58
+activity#com.sm.sdk.demo.other.MultiThreadTestActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:192:9-67
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:192:19-64
+activity#com.sm.sdk.demo.other.ESignatureActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:193:9-62
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:193:19-59
+activity#com.sm.sdk.demo.other.ScreenActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:194:9-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:194:19-55
+activity#com.sm.sdk.demo.other.GB2312Activity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:195:9-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:195:19-55
+activity#com.sm.sdk.demo.other.SetTimeDateActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:196:9-63
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:196:19-60
+activity#com.sm.sdk.demo.other.SettingActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:197:9-59
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:197:19-56
+activity#com.sm.sdk.demo.other.DeviceCommActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:198:9-62
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:198:19-59
+activity#com.sm.sdk.demo.other.PCDParamActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:199:9-60
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:199:19-57
+activity#com.sm.sdk.demo.other.CardPollIntervalTimeActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:200:9-72
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:200:19-69
+activity#com.sm.sdk.demo.other.MagCardRoundPollTimesActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:201:9-73
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:201:19-70
+activity#com.sm.sdk.demo.scan.ScanActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:203:9-55
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:203:19-52
+activity#com.sm.sdk.demo.scan.ScanResultActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:204:9-61
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:204:19-58
+activity#com.sm.sdk.demo.scan.BarcodeActivity
+ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:205:9-58
+	android:name
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:205:19-55
+uses-sdk
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+MERGED from [PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:5:5-7:41
+MERGED from [PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:5:5-7:41
+MERGED from [sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:7:5-9:41
+MERGED from [sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sunmi:printerlibrary:1.0.13] C:\Users\Mustafa\.gradle\caches\transforms-3\afb85bb5d544808a4ddd226d3138ddcd\transformed\jetified-printerlibrary-1.0.13\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sunmi:printerlibrary:1.0.13] C:\Users\Mustafa\.gradle\caches\transforms-3\afb85bb5d544808a4ddd226d3138ddcd\transformed\jetified-printerlibrary-1.0.13\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\1072879069efd070fb6992aa0ec3c2d9\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\1072879069efd070fb6992aa0ec3c2d9\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mustafa\.gradle\caches\transforms-3\955413b85531504294598a8aedf3347f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mustafa\.gradle\caches\transforms-3\955413b85531504294598a8aedf3347f\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Mustafa\.gradle\caches\transforms-3\5d71c09e320f59ac02ee86e96c089f7e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Mustafa\.gradle\caches\transforms-3\5d71c09e320f59ac02ee86e96c089f7e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mustafa\.gradle\caches\transforms-3\44fc53ad3ef1477fcc7b5dbdbf1cb4c0\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mustafa\.gradle\caches\transforms-3\44fc53ad3ef1477fcc7b5dbdbf1cb4c0\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mustafa\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mustafa\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Mustafa\.gradle\caches\transforms-3\b37d3cc29ea0c6201c77d22fe23d583e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Mustafa\.gradle\caches\transforms-3\b37d3cc29ea0c6201c77d22fe23d583e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\2f4e5cd3c19a22ad658424fbd55db187\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\2f4e5cd3c19a22ad658424fbd55db187\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\7bc7a5b48c08c285c7816e5896abfab2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\7bc7a5b48c08c285c7816e5896abfab2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\c49cd9f9e70a62c0cfb6a9c057db283b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\c49cd9f9e70a62c0cfb6a9c057db283b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\ce8e9fef21b12750b78ea8e6de235acd\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\ce8e9fef21b12750b78ea8e6de235acd\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\a7df65a8c9e3ccc272ac26dbb4e6f86a\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\a7df65a8c9e3ccc272ac26dbb4e6f86a\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\46167f1523bd689108129b80f4422441\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\46167f1523bd689108129b80f4422441\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\4432a2afdd19fc85814143f134bfa94c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\4432a2afdd19fc85814143f134bfa94c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\34be6e117e2e06ff01a6121271053230\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\34be6e117e2e06ff01a6121271053230\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\56231006098977eb2b0b774fbfdbf755\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\56231006098977eb2b0b774fbfdbf755\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\11719f426e3912cf36f493acb6a06bf9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\11719f426e3912cf36f493acb6a06bf9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\6eaf261807bfdfb11a3a18692cc26456\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\6eaf261807bfdfb11a3a18692cc26456\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\66eb2c428070a7989cc3e53427124072\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Mustafa\.gradle\caches\transforms-3\66eb2c428070a7989cc3e53427124072\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\94c1e08774be1a91ac7aa4bf2cb72cb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mustafa\.gradle\caches\transforms-3\94c1e08774be1a91ac7aa4bf2cb72cb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Mustafa\.gradle\caches\transforms-3\9c93c0208ca51e60d003bcd86a7f4e2d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Mustafa\.gradle\caches\transforms-3\9c93c0208ca51e60d003bcd86a7f4e2d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+queries
+ADDED from [PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:9:5-11:15
+package#com.sunmi.pay.hardware_v3
+ADDED from [PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:10:9-61
+	android:name
+		ADDED from [PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:10:18-58
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:11:22-75
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\11719f426e3912cf36f493acb6a06bf9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mustafa\.gradle\caches\transforms-3\11719f426e3912cf36f493acb6a06bf9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.sm.sdk.demo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.sm.sdk.demo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

@@ -1,0 +1,573 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sm.sdk.demo"
+4    android:versionCode="260"
+5    android:versionName="v2.3.20" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="com.sunmi.perm.LED" />
+11-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:6:5-58
+11-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:6:22-55
+12    <uses-permission android:name="com.sunmi.perm.MSR" />
+12-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:7:5-58
+12-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:7:22-55
+13    <uses-permission android:name="com.sunmi.perm.ICC" />
+13-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:8:5-58
+13-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:8:22-55
+14    <uses-permission android:name="com.sunmi.perm.PINPAD" />
+14-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:9:5-61
+14-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:9:22-58
+15    <uses-permission android:name="com.sunmi.perm.SECURITY" />
+15-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:10:5-63
+15-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:10:22-60
+16    <uses-permission android:name="com.sunmi.perm.CONTACTLESS_CARD" />
+16-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:11:5-71
+16-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:11:22-68
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:12:5-75
+17-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:12:22-72
+18    <uses-permission android:name="android.permission.SET_TIME" />
+18-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:13:5-67
+18-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:13:22-64
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:14:5-68
+19-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:14:22-65
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:15:5-81
+20-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:15:22-78
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:16:5-80
+21-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:16:22-77
+22    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+22-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:18:5-20:53
+22-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:19:9-61
+23
+24    <queries>
+24-->[PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:9:5-11:15
+25        <package android:name="com.sunmi.pay.hardware_v3" />
+25-->[PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:10:9-61
+25-->[PayLib-release-2.0.15.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\AndroidManifest.xml:10:18-58
+26    </queries>
+27
+28    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+28-->[sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:11:5-78
+28-->[sunmiui-1.1.27.aar] C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\AndroidManifest.xml:11:22-75
+29
+30    <permission
+30-->[androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+31        android:name="com.sm.sdk.demo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+31-->[androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+32        android:protectionLevel="signature" />
+32-->[androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+33
+34    <uses-permission android:name="com.sm.sdk.demo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+34-->[androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+34-->[androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+35
+36    <application
+36-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:22:5-207:19
+37        android:name="com.sm.sdk.demo.MyApplication"
+37-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:23:9-38
+38        android:allowBackup="true"
+38-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:24:9-35
+39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+39-->[androidx.core:core:1.9.0] C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+40        android:debuggable="true"
+41        android:icon="@drawable/ic_launcher"
+41-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:25:9-45
+42        android:label="@string/app_name"
+42-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:26:9-41
+43        android:roundIcon="@drawable/ic_launcher"
+43-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:27:9-50
+44        android:supportsRtl="true"
+44-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:28:9-35
+45        android:testOnly="true"
+46        android:theme="@style/AppTheme" >
+46-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:29:9-40
+47        <activity
+47-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:31:9-39:20
+48            android:name="com.sm.sdk.demo.MainActivity"
+48-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:32:13-41
+49            android:exported="true" >
+49-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:33:13-36
+50            <intent-filter>
+50-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:34:13-38:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:35:17-69
+51-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:35:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:37:17-77
+53-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:37:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity android:name="com.sm.sdk.demo.basic.LedActivity" />
+56-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:40:9-55
+56-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:40:19-52
+57        <activity android:name="com.sm.sdk.demo.basic.BasicActivity" />
+57-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:41:9-57
+57-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:41:19-54
+58        <activity android:name="com.sm.sdk.demo.basic.BuzzerActivity" />
+58-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:42:9-58
+58-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:42:19-55
+59        <activity android:name="com.sm.sdk.demo.basic.GetSysParamActivity" />
+59-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:43:9-63
+59-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:43:19-60
+60        <activity android:name="com.sm.sdk.demo.basic.SetSysParamActivity" />
+60-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:44:9-63
+60-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:44:19-60
+61        <activity android:name="com.sm.sdk.demo.basic.ScreenModelActivity" />
+61-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:45:9-63
+61-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:45:19-60
+62        <activity android:name="com.sm.sdk.demo.basic.DynamicPermissionAndWifiProxyActivity" />
+62-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:46:9-81
+62-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:46:19-78
+63        <activity android:name="com.sm.sdk.demo.basic.CACertManageActivity" />
+63-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:47:9-64
+63-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:47:19-61
+64        <activity android:name="com.sm.sdk.demo.basic.CPUInfoActivity" />
+64-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:48:9-59
+64-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:48:19-56
+65        <activity android:name="com.sm.sdk.demo.basic.ScheduleRebootActivity" />
+65-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:49:9-66
+65-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:49:19-63
+66        <activity android:name="com.sm.sdk.demo.basic.CustomizeFunctionKeyActivity" />
+66-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:50:9-72
+66-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:50:19-69
+67        <activity android:name="com.sm.sdk.demo.basic.LowMemoryKillerActivity" />
+67-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:51:9-67
+67-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:51:19-64
+68        <activity android:name="com.sm.sdk.demo.basic.PinAntiExhaustiveMode" />
+68-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:52:9-65
+68-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:52:19-62
+69        <activity android:name="com.sm.sdk.demo.basic.EMVCallbackTimeActivity" />
+69-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:53:9-67
+69-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:53:19-64
+70        <activity android:name="com.sm.sdk.demo.basic.SysSetWakeupActivity" />
+70-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:54:9-64
+70-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:54:19-61
+71        <activity android:name="com.sm.sdk.demo.basic.KBBeepModeActivity" />
+71-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:55:9-62
+71-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:55:19-59
+72        <activity android:name="com.sm.sdk.demo.basic.TransmissionTestActivity" />
+72-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:56:9-68
+72-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:56:19-65
+73        <activity android:name="com.sm.sdk.demo.basic.SharedLibActivity" />
+73-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:57:9-61
+73-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:57:19-58
+74        <activity android:name="com.sm.sdk.demo.basic.LitesoActivity" />
+74-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:58:9-58
+74-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:58:19-55
+75        <activity android:name="com.sm.sdk.demo.basic.NetworkManageActivity" />
+75-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:59:9-65
+75-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:59:19-62
+76        <activity android:name="com.sm.sdk.demo.basic.PhoneManageActivity" />
+76-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:60:9-63
+76-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:60:19-60
+77        <activity android:name="com.sm.sdk.demo.basic.DeviceManageActivity" />
+77-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:61:9-64
+77-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:61:19-61
+78        <activity android:name="com.sm.sdk.demo.basic.PedActivity" />
+78-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:62:9-55
+78-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:62:19-52
+79        <activity android:name="com.sm.sdk.demo.basic.RTCBatterVolActivity" />
+79-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:63:9-64
+79-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:63:19-61
+80        <activity android:name="com.sm.sdk.demo.basic.GetTamperLogActivity" />
+80-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:64:9-64
+80-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:64:19-61
+81        <activity android:name="com.sm.sdk.demo.biometric.BiometricActivity" />
+81-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:66:9-65
+81-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:66:19-62
+82        <activity android:name="com.sm.sdk.demo.card.CardActivity" />
+82-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:68:9-55
+82-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:68:19-52
+83        <activity android:name="com.sm.sdk.demo.card.MagActivity" />
+83-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:69:9-54
+83-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:69:19-51
+84        <activity android:name="com.sm.sdk.demo.card.MagPresetTrackActivity" />
+84-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:70:9-65
+84-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:70:19-62
+85        <activity android:name="com.sm.sdk.demo.card.MagEncActivity" />
+85-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:71:9-57
+85-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:71:19-54
+86        <activity android:name="com.sm.sdk.demo.card.MagTrack2EncActivity" />
+86-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:72:9-63
+86-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:72:19-60
+87        <activity android:name="com.sm.sdk.demo.card.ICActivity" />
+87-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:73:9-53
+87-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:73:19-50
+88        <activity android:name="com.sm.sdk.demo.card.NFCActivity" />
+88-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:74:9-54
+88-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:74:19-51
+89        <activity android:name="com.sm.sdk.demo.card.CompositeActivity" />
+89-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:75:9-60
+89-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:75:19-57
+90        <activity android:name="com.sm.sdk.demo.card.M1Activity" />
+90-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:76:9-53
+90-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:76:19-50
+91        <activity
+91-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:77:9-80:57
+92            android:name="com.sm.sdk.demo.card.SAMActivity"
+92-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:78:13-45
+93            android:screenOrientation="portrait"
+93-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:79:13-49
+94            android:windowSoftInputMode="stateHidden" />
+94-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:80:13-54
+95        <activity android:name="com.sm.sdk.demo.card.FelicaActivity" />
+95-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:81:9-57
+95-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:81:19-54
+96        <activity android:name="com.sm.sdk.demo.card.MifareUltralightCActivity" />
+96-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:82:9-68
+96-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:82:19-65
+97        <activity android:name="com.sm.sdk.demo.card.MifareUtralightEv1Activity" />
+97-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:83:9-69
+97-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:83:19-66
+98        <activity android:name="com.sm.sdk.demo.card.MifareDesfireEv2Activity" />
+98-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:84:9-67
+98-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:84:19-64
+99        <activity
+99-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:85:9-87:57
+100            android:name="com.sm.sdk.demo.card.NormalApduActivity"
+100-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:86:13-52
+101            android:windowSoftInputMode="stateHidden" />
+101-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:87:13-54
+102        <activity
+102-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:88:9-90:57
+103            android:name="com.sm.sdk.demo.card.TransmitApduActivity"
+103-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:89:13-54
+104            android:windowSoftInputMode="stateHidden" />
+104-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:90:13-54
+105        <activity android:name="com.sm.sdk.demo.card.ExtendedApduActivity" />
+105-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:91:9-63
+105-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:91:19-60
+106        <activity
+106-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:92:9-94:57
+107            android:name="com.sm.sdk.demo.card.PassApduActivity"
+107-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:93:13-50
+108            android:windowSoftInputMode="stateHidden" />
+108-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:94:13-54
+109        <activity android:name="com.sm.sdk.demo.card.MifarePlusActivity" />
+109-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:95:9-61
+109-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:95:19-58
+110        <activity android:name="com.sm.sdk.demo.card.MifarePlusTransmitApduActivity" />
+110-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:96:9-73
+110-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:96:19-70
+111        <activity android:name="com.sm.sdk.demo.card.MifareAuthedByPSAMActivity" />
+111-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:97:9-69
+111-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:97:19-66
+112        <activity android:name="com.sm.sdk.demo.card.SLE4442_4428Actviity" />
+112-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:98:9-63
+112-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:98:19-60
+113        <activity android:name="com.sm.sdk.demo.card.AT24CActivity" />
+113-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:99:9-56
+113-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:99:19-53
+114        <activity android:name="com.sm.sdk.demo.card.AT88SCActivity" />
+114-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:100:9-57
+114-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:100:19-54
+115        <activity android:name="com.sm.sdk.demo.card.CTX512Activity" />
+115-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:101:9-57
+115-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:101:19-54
+116        <activity android:name="com.sm.sdk.demo.card.SRIActivity" />
+116-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:102:9-54
+116-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:102:19-51
+117        <activity android:name="com.sm.sdk.demo.card.CtrCodeAndMultiApduActivity" />
+117-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:103:9-70
+117-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:103:19-67
+118        <activity android:name="com.sm.sdk.demo.card.GetCardExistStatusActivity" />
+118-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:104:9-69
+118-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:104:19-66
+119        <activity android:name="com.sm.sdk.demo.card.HCETestActivity" />
+119-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:105:9-58
+119-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:105:19-55
+120        <activity android:name="com.sm.sdk.demo.card.PingActivity" />
+120-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:106:9-55
+120-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:106:19-52
+121        <activity android:name="com.sm.sdk.demo.card.InnovatronActivity" />
+121-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:107:9-61
+121-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:107:19-58
+122        <activity android:name="com.sm.sdk.demo.security.SecurityActivity" />
+122-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:109:9-63
+122-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:109:19-60
+123        <activity android:name="com.sm.sdk.demo.security.SaveKeyPlainTextActivity" />
+123-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:110:9-71
+123-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:110:19-68
+124        <activity android:name="com.sm.sdk.demo.security.SaveKeyCipherTextActivity" />
+124-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:111:9-72
+124-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:111:19-69
+125        <activity android:name="com.sm.sdk.demo.security.InjectPlainTextKeyActivity" />
+125-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:112:9-73
+125-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:112:19-70
+126        <activity android:name="com.sm.sdk.demo.security.InjectCiphertextKeyActivity" />
+126-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:113:9-74
+126-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:113:19-71
+127        <activity android:name="com.sm.sdk.demo.security.CalcMacActivity" />
+127-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:114:9-62
+127-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:114:19-59
+128        <activity android:name="com.sm.sdk.demo.security.DataEncryptActivity" />
+128-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:115:9-66
+128-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:115:19-63
+129        <activity android:name="com.sm.sdk.demo.security.DataDecryptActivity" />
+129-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:116:9-66
+129-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:116:19-63
+130        <activity android:name="com.sm.sdk.demo.security.GetEncryptBySerialNumberActivity" />
+130-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:117:9-79
+130-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:117:19-76
+131        <activity android:name="com.sm.sdk.demo.security.DukptSaveKeyActivity" />
+131-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:118:9-67
+131-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:118:19-64
+132        <activity android:name="com.sm.sdk.demo.security.DukptCalcMacActivity" />
+132-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:119:9-67
+132-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:119:19-64
+133        <activity android:name="com.sm.sdk.demo.security.DukptDataEncryptActivity" />
+133-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:120:9-71
+133-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:120:19-68
+134        <activity android:name="com.sm.sdk.demo.security.DukptDataDecryptActivity" />
+134-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:121:9-71
+134-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:121:19-68
+135        <activity android:name="com.sm.sdk.demo.security.DukptKSNOperateActivity" />
+135-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:122:9-70
+135-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:122:19-67
+136        <activity android:name="com.sm.sdk.demo.security.RSATestActivity" />
+136-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:123:9-62
+136-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:123:19-59
+137        <activity android:name="com.sm.sdk.demo.security.RSARecoverActivity" />
+137-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:124:9-65
+137-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:124:19-62
+138        <activity android:name="com.sm.sdk.demo.security.SaveTR31KeyActivity" />
+138-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:125:9-66
+138-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:125:19-63
+139        <activity android:name="com.sm.sdk.demo.security.DeleteKeyActivity" />
+139-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:126:9-64
+139-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:126:19-61
+140        <activity android:name="com.sm.sdk.demo.security.DukptAesSaveKeyActivity" />
+140-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:127:9-70
+140-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:127:19-67
+141        <activity android:name="com.sm.sdk.demo.security.SM2TestActivity" />
+141-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:128:9-62
+141-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:128:19-59
+142        <activity android:name="com.sm.sdk.demo.security.CalcHashActivity" />
+142-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:129:9-63
+142-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:129:19-60
+143        <activity android:name="com.sm.sdk.demo.security.HsmAndDeviceCertificateTestActivity" />
+143-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:130:9-82
+143-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:130:19-79
+144        <activity android:name="com.sm.sdk.demo.security.DeviceCertPvkTestActivity" />
+144-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:131:9-72
+144-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:131:19-69
+145        <activity android:name="com.sm.sdk.demo.security.InjectDeviceCertPvkActivity" />
+145-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:132:9-74
+145-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:132:19-71
+146        <activity android:name="com.sm.sdk.demo.security.GetDeviceCertificateActivity" />
+146-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:133:9-75
+146-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:133:19-72
+147        <activity android:name="com.sm.sdk.demo.security.DevicePvkRecoverActivity" />
+147-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:134:9-71
+147-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:134:19-68
+148        <activity android:name="com.sm.sdk.demo.security.DeviceCertManagerActivity" />
+148-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:135:9-72
+148-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:135:19-69
+149        <activity android:name="com.sm.sdk.demo.security.HsmKeyShareTestActivity" />
+149-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:136:9-70
+149-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:136:19-67
+150        <activity android:name="com.sm.sdk.demo.security.HsmRsaTestActivity" />
+150-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:137:9-65
+150-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:137:19-62
+151        <activity android:name="com.sm.sdk.demo.security.GetKeyCheckValueActivity" />
+151-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:138:9-71
+151-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:138:19-68
+152        <activity android:name="com.sm.sdk.demo.security.APACSMacTestActivity" />
+152-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:139:9-67
+152-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:139:19-64
+153        <activity android:name="com.sm.sdk.demo.security.HsmSaveKeyUnderKEKActivity" />
+153-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:140:9-73
+153-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:140:19-70
+154        <activity android:name="com.sm.sdk.demo.security.HsmExportKeyUnderKEKActivity" />
+154-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:141:9-75
+154-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:141:19-72
+155        <activity android:name="com.sm.sdk.demo.security.SaveKeyCipherTextUnderRsaActivity" />
+155-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:142:9-80
+155-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:142:19-77
+156        <activity android:name="com.sm.sdk.demo.security.InjectCiphertextKeyUnderRsaActivity" />
+156-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:143:9-82
+156-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:143:19-79
+157        <activity android:name="com.sm.sdk.demo.security.InjectSymKeyActivity" />
+157-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:144:9-67
+157-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:144:19-64
+158        <activity android:name="com.sm.sdk.demo.security.GetSetDeviceCertificateActivity" />
+158-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:145:9-78
+158-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:145:19-75
+159        <activity android:name="com.sm.sdk.demo.security.TR34TestActivity" />
+159-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:146:9-63
+159-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:146:19-60
+160        <activity android:name="com.sm.sdk.demo.pin.PinActivity" />
+160-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:148:9-53
+160-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:148:19-50
+161        <activity android:name="com.sm.sdk.demo.pin.PinPadActivity" />
+161-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:149:9-56
+161-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:149:19-53
+162        <activity android:name="com.sm.sdk.demo.pin.CustomizedPinPadActivity" />
+162-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:150:9-66
+162-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:150:19-63
+163        <activity android:name="com.sm.sdk.demo.pin.CustomizedPinPadActivityForBanjul" />
+163-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:151:9-75
+163-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:151:19-72
+164        <activity android:name="com.sm.sdk.demo.pin.VisualImpairmentPinActivity" />
+164-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:152:9-69
+164-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:152:19-66
+165        <activity android:name="com.sm.sdk.demo.pin.CustomizedVisualImpairmentPinActivity" />
+165-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:153:9-79
+165-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:153:19-76
+166        <activity android:name="com.sm.sdk.demo.pin.StartInputPinActivity" />
+166-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:154:9-63
+166-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:154:19-60
+167        <activity android:name="com.sm.sdk.demo.emv.EMVActivity" />
+167-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:156:9-53
+167-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:156:19-50
+168        <activity android:name="com.sm.sdk.demo.emv.ICProcessActivity" />
+168-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:157:9-59
+168-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:157:19-56
+169        <activity android:name="com.sm.sdk.demo.emv.RuPayCardActivity" />
+169-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:158:9-59
+169-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:158:19-56
+170        <activity android:name="com.sm.sdk.demo.emv.MagProcessActivity" />
+170-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:159:9-60
+170-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:159:19-57
+171        <activity android:name="com.sm.sdk.demo.emv.TossEmvActivity" />
+171-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:160:9-57
+171-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:160:19-54
+172        <activity android:name="com.sm.sdk.demo.emv.EmvOtherActivity" />
+172-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:161:9-58
+172-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:161:19-55
+173        <activity android:name="com.sm.sdk.demo.emv.EMVTestSaveAidCapkActivity" />
+173-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:162:9-68
+173-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:162:19-65
+174        <activity android:name="com.sm.sdk.demo.emv.VisualImpairmentProcessActivity" />
+174-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:163:9-73
+174-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:163:19-70
+175        <activity android:name="com.sm.sdk.demo.tax.TaxTestActivity" />
+175-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:165:9-57
+175-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:165:19-54
+176        <activity android:name="com.sm.sdk.demo.print.PrintActivity" />
+176-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:167:9-57
+176-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:167:19-54
+177        <activity android:name="com.sm.sdk.demo.print.PrintTextActivity" />
+177-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:168:9-61
+177-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:168:19-58
+178        <activity android:name="com.sm.sdk.demo.print.PrintConfigActivity" />
+178-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:169:9-63
+178-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:169:19-60
+179        <activity android:name="com.sm.sdk.demo.print.PrintBitmapActivity" />
+179-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:170:9-63
+179-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:170:19-60
+180        <activity android:name="com.sm.sdk.demo.etc.ETCActivity" />
+180-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:172:9-53
+180-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:172:19-50
+181        <activity
+181-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:173:9-175:57
+182            android:name="com.sm.sdk.demo.etc.I2CDataExchangeActivity"
+182-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:174:13-56
+183            android:windowSoftInputMode="stateHidden" />
+183-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:175:13-54
+184        <activity
+184-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:176:9-178:57
+185            android:name="com.sm.sdk.demo.etc.SearchETCDeviceActivity"
+185-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:177:13-56
+186            android:windowSoftInputMode="stateHidden" />
+186-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:178:13-54
+187        <activity
+187-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:179:9-181:57
+188            android:name="com.sm.sdk.demo.etc.ETCStressTestActivity"
+188-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:180:13-54
+189            android:windowSoftInputMode="stateHidden" />
+189-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:181:13-54
+190        <activity
+190-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:182:9-184:57
+191            android:name="com.sm.sdk.demo.etc.ETCTradeActivity"
+191-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:183:13-49
+192            android:windowSoftInputMode="stateHidden" />
+192-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:184:13-54
+193        <activity android:name="com.sm.sdk.demo.m112.M112Activity" />
+193-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:186:9-55
+193-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:186:19-52
+194        <activity android:name="com.sm.sdk.demo.other.OtherActivity" />
+194-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:188:9-57
+194-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:188:19-54
+195        <activity android:name="com.sm.sdk.demo.other.VersionActivity" />
+195-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:189:9-59
+195-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:189:19-56
+196        <activity android:name="com.sm.sdk.demo.other.LanguageActivity" />
+196-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:190:9-60
+196-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:190:19-57
+197        <activity android:name="com.sm.sdk.demo.other.TamperLogActivity" />
+197-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:191:9-61
+197-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:191:19-58
+198        <activity android:name="com.sm.sdk.demo.other.MultiThreadTestActivity" />
+198-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:192:9-67
+198-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:192:19-64
+199        <activity android:name="com.sm.sdk.demo.other.ESignatureActivity" />
+199-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:193:9-62
+199-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:193:19-59
+200        <activity android:name="com.sm.sdk.demo.other.ScreenActivity" />
+200-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:194:9-58
+200-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:194:19-55
+201        <activity android:name="com.sm.sdk.demo.other.GB2312Activity" />
+201-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:195:9-58
+201-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:195:19-55
+202        <activity android:name="com.sm.sdk.demo.other.SetTimeDateActivity" />
+202-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:196:9-63
+202-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:196:19-60
+203        <activity android:name="com.sm.sdk.demo.other.SettingActivity" />
+203-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:197:9-59
+203-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:197:19-56
+204        <activity android:name="com.sm.sdk.demo.other.DeviceCommActivity" />
+204-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:198:9-62
+204-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:198:19-59
+205        <activity android:name="com.sm.sdk.demo.other.PCDParamActivity" />
+205-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:199:9-60
+205-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:199:19-57
+206        <activity android:name="com.sm.sdk.demo.other.CardPollIntervalTimeActivity" />
+206-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:200:9-72
+206-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:200:19-69
+207        <activity android:name="com.sm.sdk.demo.other.MagCardRoundPollTimesActivity" />
+207-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:201:9-73
+207-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:201:19-70
+208        <activity android:name="com.sm.sdk.demo.scan.ScanActivity" />
+208-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:203:9-55
+208-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:203:19-52
+209        <activity android:name="com.sm.sdk.demo.scan.ScanResultActivity" />
+209-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:204:9-61
+209-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:204:19-58
+210        <activity android:name="com.sm.sdk.demo.scan.BarcodeActivity" />
+210-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:205:9-58
+210-->C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\AndroidManifest.xml:205:19-55
+211
+212        <provider
+212-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+213            android:name="androidx.startup.InitializationProvider"
+213-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+214            android:authorities="com.sm.sdk.demo.androidx-startup"
+214-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+215            android:exported="false" >
+215-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+216            <meta-data
+216-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+217                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+217-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+218                android:value="androidx.startup" />
+218-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+219            <meta-data
+219-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+220                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+220-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+221                android:value="androidx.startup" />
+221-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+222        </provider>
+223    </application>
+224
+225</manifest>

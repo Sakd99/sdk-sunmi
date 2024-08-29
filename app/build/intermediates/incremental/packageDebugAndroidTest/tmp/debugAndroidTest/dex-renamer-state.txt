@@ -1,0 +1,7 @@
+#Mon Aug 26 10:09:03 AST 2024
+base.0=C\:\\Users\\Mustafa\\Desktop\\sdk sunmi\\SunmiPaySdkTestDemo-v2.3.20\\SunmiPaySdkTestDemo-v2.3.20\\SunmiPaySdkTestDemo\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\Mustafa\\Desktop\\sdk sunmi\\SunmiPaySdkTestDemo-v2.3.20\\SunmiPaySdkTestDemo-v2.3.20\\SunmiPaySdkTestDemo\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\10\\classes.dex
+path.0=0/classes.dex
+path.1=10/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

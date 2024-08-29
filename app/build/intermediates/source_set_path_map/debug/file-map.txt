@@ -1,0 +1,35 @@
+com.sm.sdk.demo.app-jetified-viewpager2-1.0.0-0 C:\Users\Mustafa\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\res
+com.sm.sdk.demo.app-jetified-PayLib-release-2.0.15-1 C:\Users\Mustafa\.gradle\caches\transforms-3\0f27ef4b3a4b6a269f5ffda409407bcb\transformed\jetified-PayLib-release-2.0.15\res
+com.sm.sdk.demo.app-material-1.9.0-2 C:\Users\Mustafa\.gradle\caches\transforms-3\1072879069efd070fb6992aa0ec3c2d9\transformed\material-1.9.0\res
+com.sm.sdk.demo.app-jetified-startup-runtime-1.1.1-3 C:\Users\Mustafa\.gradle\caches\transforms-3\11719f426e3912cf36f493acb6a06bf9\transformed\jetified-startup-runtime-1.1.1\res
+com.sm.sdk.demo.app-jetified-lifecycle-process-2.4.1-4 C:\Users\Mustafa\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\res
+com.sm.sdk.demo.app-cardview-1.0.0-5 C:\Users\Mustafa\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\res
+com.sm.sdk.demo.app-jetified-emoji2-1.2.0-6 C:\Users\Mustafa\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\res
+com.sm.sdk.demo.app-jetified-emoji2-views-helper-1.2.0-7 C:\Users\Mustafa\.gradle\caches\transforms-3\2f4e5cd3c19a22ad658424fbd55db187\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.sm.sdk.demo.app-lifecycle-runtime-2.5.1-8 C:\Users\Mustafa\.gradle\caches\transforms-3\34be6e117e2e06ff01a6121271053230\transformed\lifecycle-runtime-2.5.1\res
+com.sm.sdk.demo.app-appcompat-1.6.1-9 C:\Users\Mustafa\.gradle\caches\transforms-3\44fc53ad3ef1477fcc7b5dbdbf1cb4c0\transformed\appcompat-1.6.1\res
+com.sm.sdk.demo.app-jetified-core-ktx-1.9.0-10 C:\Users\Mustafa\.gradle\caches\transforms-3\46167f1523bd689108129b80f4422441\transformed\jetified-core-ktx-1.9.0\res
+com.sm.sdk.demo.app-jetified-savedstate-1.2.0-11 C:\Users\Mustafa\.gradle\caches\transforms-3\56231006098977eb2b0b774fbfdbf755\transformed\jetified-savedstate-1.2.0\res
+com.sm.sdk.demo.app-constraintlayout-2.0.1-12 C:\Users\Mustafa\.gradle\caches\transforms-3\5d71c09e320f59ac02ee86e96c089f7e\transformed\constraintlayout-2.0.1\res
+com.sm.sdk.demo.app-lifecycle-livedata-core-2.5.1-13 C:\Users\Mustafa\.gradle\caches\transforms-3\66eb2c428070a7989cc3e53427124072\transformed\lifecycle-livedata-core-2.5.1\res
+com.sm.sdk.demo.app-recyclerview-1.1.0-14 C:\Users\Mustafa\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\res
+com.sm.sdk.demo.app-jetified-sunmiui-1.1.27-15 C:\Users\Mustafa\.gradle\caches\transforms-3\76e722f6f5167fc90e6e8edb38fe87c4\transformed\jetified-sunmiui-1.1.27\res
+com.sm.sdk.demo.app-drawerlayout-1.1.1-16 C:\Users\Mustafa\.gradle\caches\transforms-3\7bc7a5b48c08c285c7816e5896abfab2\transformed\drawerlayout-1.1.1\res
+com.sm.sdk.demo.app-coordinatorlayout-1.1.0-17 C:\Users\Mustafa\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\res
+com.sm.sdk.demo.app-jetified-appcompat-resources-1.6.1-18 C:\Users\Mustafa\.gradle\caches\transforms-3\955413b85531504294598a8aedf3347f\transformed\jetified-appcompat-resources-1.6.1\res
+com.sm.sdk.demo.app-jetified-annotation-experimental-1.3.0-19 C:\Users\Mustafa\.gradle\caches\transforms-3\9c93c0208ca51e60d003bcd86a7f4e2d\transformed\jetified-annotation-experimental-1.3.0\res
+com.sm.sdk.demo.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-20 C:\Users\Mustafa\.gradle\caches\transforms-3\a7df65a8c9e3ccc272ac26dbb4e6f86a\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.sm.sdk.demo.app-jetified-printerlibrary-1.0.13-21 C:\Users\Mustafa\.gradle\caches\transforms-3\afb85bb5d544808a4ddd226d3138ddcd\transformed\jetified-printerlibrary-1.0.13\res
+com.sm.sdk.demo.app-jetified-activity-1.6.0-22 C:\Users\Mustafa\.gradle\caches\transforms-3\b37d3cc29ea0c6201c77d22fe23d583e\transformed\jetified-activity-1.6.0\res
+com.sm.sdk.demo.app-lifecycle-viewmodel-2.5.1-23 C:\Users\Mustafa\.gradle\caches\transforms-3\ce8e9fef21b12750b78ea8e6de235acd\transformed\lifecycle-viewmodel-2.5.1\res
+com.sm.sdk.demo.app-transition-1.2.0-24 C:\Users\Mustafa\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\res
+com.sm.sdk.demo.app-fragment-1.3.6-25 C:\Users\Mustafa\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\res
+com.sm.sdk.demo.app-core-1.9.0-26 C:\Users\Mustafa\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\res
+com.sm.sdk.demo.app-pngs-27 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\generated\res\pngs\debug
+com.sm.sdk.demo.app-resValues-28 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\generated\res\resValues\debug
+com.sm.sdk.demo.app-rs-29 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\generated\res\rs\debug
+com.sm.sdk.demo.app-mergeDebugResources-30 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.sm.sdk.demo.app-mergeDebugResources-31 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.sm.sdk.demo.app-merged_res-32 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\build\intermediates\merged_res\debug
+com.sm.sdk.demo.app-debug-33 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\debug\res
+com.sm.sdk.demo.app-main-34 C:\Users\Mustafa\Desktop\sdk sunmi\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo-v2.3.20\SunmiPaySdkTestDemo\app\src\main\res

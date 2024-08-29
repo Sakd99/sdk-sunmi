@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_at24c.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_at24c.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_ca_certificate_manage.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_ca_certificate_manage.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_transmit_apdu_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_transmit_apdu_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_date_time.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_date_time.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_mifareutralightev1_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_mifareutralightev1_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_ic_launcher.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.sm.sdk.demo.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_ping_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_ping_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_ic_card_corner_bottom_right.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/ic_card_corner_bottom_right.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_tax_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_tax_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-hdpi_password_inputed.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-hdpi/password_inputed.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_other_version.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_other_version.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_calc_mac.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_calc_mac.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_default_fp.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/default_fp.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_comm_serialport.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_comm_serialport.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_rnib_switch_track_on.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/rnib_switch_track_on.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_inject_ciphertext_key_under_rsa.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_inject_ciphertext_key_under_rsa.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_etc_stress_test_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_etc_stress_test_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_m1.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_m1.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_sys_set_wakeup.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_sys_set_wakeup.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_save_key_tr31.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_save_key_tr31.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_nfc_with_card_indicator.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_nfc_with_card_indicator.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_cpu_info.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_cpu_info.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_card_nfc.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/card_nfc.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_start_input_pin.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_start_input_pin.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_device_pvk_recover.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_device_pvk_recover.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_pin_antiexhaustive_mode.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_pin_antiexhaustive_mode.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_network_manage.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_network_manage.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_buzzer.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_buzzer.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_gb2312.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_gb2312.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_dukpt_aes_save_key.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_dukpt_aes_save_key.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_m112_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_m112_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_etc_i2c_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_etc_i2c_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_etc_search_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_etc_search_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-hdpi_sunmi_logo.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-hdpi/sunmi_logo.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_savekey_ciphertext_under_rsa.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_savekey_ciphertext_under_rsa.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_poll_interval_time.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_poll_interval_time.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_pass_apdu_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_pass_apdu_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_liteso.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_liteso.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_setting.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_cardactive_and_data_ex_ctrcode_test_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_cardactive_and_data_ex_ctrcode_test_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_scan_result.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_scan_result.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_hsm_key_share_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_hsm_key_share_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_biometric.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_biometric.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xxhdpi_ic_right_gray.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xxhdpi/ic_right_gray.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-hdpi_password_def.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-hdpi/password_def.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_e_signature.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_e_signature.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_pin_pad.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_pin_pad.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_get_device_certificate.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_get_device_certificate.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_mifareplus_transmit_apdu.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_mifareplus_transmit_apdu.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_card_magnetic.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/card_magnetic.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_sle4442_4428.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_sle4442_4428.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_card_ic.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/card_ic.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_pin_pad_customized_vi.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_pin_pad_customized_vi.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_dukpt_save_key.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_dukpt_save_key.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_rnib_switch_track_selector.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/rnib_switch_track_selector.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_print.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_print.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_schedule_reboot.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_schedule_reboot.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_device_certificate.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_device_certificate.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-hdpi_keyboard_clean.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-hdpi/keyboard_clean.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_rtc.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_rtc.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xxhdpi_ui_ic_left_white.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xxhdpi/ui_ic_left_white.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_emv_toss.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_emv_toss.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_ic.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_ic.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_dialog_swing_card_hint.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/dialog_swing_card_hint.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_device_cert_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_device_cert_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_emv_ic.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_emv_ic.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-hdpi_error.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-hdpi/error.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_felica.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_felica.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_screen_model.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_screen_model.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_shared_lib.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_shared_lib.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_emv_blind_pinpad.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_emv_blind_pinpad.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_save_key_cipher_text.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_save_key_cipher_text.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_etc.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_etc.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_composite.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_composite.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_emv_mag.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_emv_mag.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_other_language.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_other_language.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_mag_en.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_mag_en.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_phone_manage.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_phone_manage.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_emv_callback_time.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_emv_callback_time.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_delete_key.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_delete_key.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_kb_beep_mode.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_kb_beep_mode.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_mifare_psam_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_mifare_psam_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_hsm_rsa_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_hsm_rsa_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_edit_bg.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/edit_bg.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_hsm_export_key_under_kek.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_hsm_export_key_under_kek.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_save_key_plain_text.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_save_key_plain_text.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_normal_apdu_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_normal_apdu_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_pin.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_pin.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_rsa_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_rsa_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_dynamic_permission_and_wifi_proxy.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_dynamic_permission_and_wifi_proxy.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_ui_nfc_card_indicator.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/ui_nfc_card_indicator.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_emv.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_emv.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_comm_wifi.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_comm_wifi.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-hdpi_left.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-hdpi/left.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_innovatron.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_innovatron.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_print_text.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_print_text.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_ic_card_corner_top_left.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/ic_card_corner_top_left.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_etc_trade_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_etc_trade_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_data_encrypt.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_data_encrypt.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_mag_card_round_poll_times.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_mag_card_round_poll_times.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_ctx512.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_ctx512.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_setting_item.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/setting_item.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_ic_card_corner_bottom_left.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/ic_card_corner_bottom_left.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-zh-rCN-xhdpi_card_nfc.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-zh-rCN-xhdpi/card_nfc.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_lmk_package.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_lmk_package.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_pin_pad_customized.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_pin_pad_customized.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_at88sc_1608.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_at88sc_1608.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_ic_card_corner_top_right.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/ic_card_corner_top_right.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_rnib_switch_track_off.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/rnib_switch_track_off.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-zh-rCN-xhdpi_card_magnetic.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-zh-rCN-xhdpi/card_magnetic.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_pin_pad_customized_for_banjul.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_pin_pad_customized_for_banjul.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_scan_barcode.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_scan_barcode.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_set_sys_param.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_set_sys_param.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_transmission_stress_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_transmission_stress_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_inject_sym_key.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_inject_sym_key.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xxhdpi_ic_back_white.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xxhdpi/ic_back_white.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_led.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_led.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_dialog_loading.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_other.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_other.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_mifare_desfire_ev2.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_mifare_desfire_ev2.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_sri_4k.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_sri_4k.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_get_kcv.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_get_kcv.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_hsm_save_key_under_kek.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_hsm_save_key_under_kek.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_dukpt_calc_mac.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_dukpt_calc_mac.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_edit_bg_no_click.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/edit_bg_no_click.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_data_decrypt.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_data_decrypt.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_emv_other.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_emv_other.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_rupaycard_layout.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_rupaycard_layout.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_save_aid_capk.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_save_aid_capk.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_extended_apdu.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_extended_apdu.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_mifare_ultralight_c.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_mifare_ultralight_c.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-zh-rCN-xhdpi_card_nfc_ic.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-zh-rCN-xhdpi/card_nfc_ic.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_scan.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_scan.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_get_tamper_log.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_get_tamper_log.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_hsmdev_cert_manager.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_hsmdev_cert_manager.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_mag_encrypt_pan.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_mag_encrypt_pan.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-zh-rCN-xhdpi_card_ic.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-zh-rCN-xhdpi/card_ic.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-hdpi_ic_eye.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-hdpi/ic_eye.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_device_manage.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_device_manage.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_tamper_log.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_tamper_log.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_get_encrypt_serial_number.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_get_encrypt_serial_number.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_mag_preset_track.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_mag_preset_track.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_ic_contactless.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/ic_contactless.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_dukpt_ksn.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_dukpt_ksn.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_comm.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_comm.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_view_fix_password_keyboard.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/view_fix_password_keyboard.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_ui_common_title.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/ui_common_title.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_device_cert_pvt_key_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_device_cert_pvt_key_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_get_card_exist_status.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_get_card_exist_status.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_customize_function_key.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_customize_function_key.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_rsa_recover.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_rsa_recover.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-xhdpi_card_nfc_ic.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-xhdpi/card_nfc_ic.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_basic_get_sys_param.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_basic_get_sys_param.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_nfc.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_nfc.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_device_comm.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_device_comm.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_screen.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_screen.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_mifareplus.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_mifareplus.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_comm_usb.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_comm_usb.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_inject_device_cert_pvt_key.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_inject_device_cert_pvt_key.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_sam.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_sam.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_multi_thread_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_multi_thread_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_print_config.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_print_config.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_hce.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_hce.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_other_pcd_param.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_other_pcd_param.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable-hdpi_right.png.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable-hdpi/right.png"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_calc_hash.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_calc_hash.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_ped.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_ped.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_common_item.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/common_item.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_tr34_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_tr34_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_print_bitmap.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_print_bitmap.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_card_mag.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_card_mag.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_security_apacs_mac.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_security_apacs_mac.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_sm2_test.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_sm2_test.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/raw_ca.crt.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/raw/ca.crt"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/layout_activity_pin_pad_vi.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/layout/activity_pin_pad_vi.xml"
+    },
+    {
+        "merged": "com.sm.sdk.demo.app-merged_res-32:/drawable_edit_bg_click.xml.flat",
+        "source": "com.sm.sdk.demo.app-main-34:/drawable/edit_bg_click.xml"
+    }
+]

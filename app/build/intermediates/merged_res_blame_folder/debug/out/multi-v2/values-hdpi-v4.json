@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sm.sdk.demo.app-mergeDebugResources-30:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mustafa\\.gradle\\caches\\transforms-3\\44fc53ad3ef1477fcc7b5dbdbf1cb4c0\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "141",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "413"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mustafa\\.gradle\\caches\\transforms-3\\76e722f6f5167fc90e6e8edb38fe87c4\\transformed\\jetified-sunmiui-1.1.27\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,43",
+                        "endOffsets": "92,136"
+                    }
+                }
+            ]
+        }
+    ]
+}
